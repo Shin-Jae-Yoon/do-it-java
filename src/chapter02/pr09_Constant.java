@@ -1,4 +1,4 @@
-package Chapter02;
+package chapter02;
 
 public class pr09_Constant {
     public static void main(String[] args) {

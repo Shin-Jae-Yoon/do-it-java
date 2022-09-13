@@ -1,4 +1,4 @@
-package Chapter02;
+package chapter02;
 
 public class pr03_CharacterEx1 {
     public static void main(String[] args) {
