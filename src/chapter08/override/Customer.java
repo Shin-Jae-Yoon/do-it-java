@@ -1,4 +1,4 @@
-package Chapter08.override;
+package chapter08.override;
 
 public class Customer {
     protected int customerID;         // 고객 아이디

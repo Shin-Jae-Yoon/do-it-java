@@ -1,4 +1,4 @@
-package Chapter08.override;
+package chapter08.override;
 
 // VIPCustomer 클래스는 Customer 클래스를 상속 받음
 public class VIPCustomer extends Customer {

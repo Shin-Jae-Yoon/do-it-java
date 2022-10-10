@@ -1,4 +1,4 @@
-package Chapter08.polymorphism;
+package chapter08.polymorphism;
 
 public class GoldCustomer extends Customer {
     double saleRatio;

@@ -1,4 +1,4 @@
-package Chapter08.polymorphism;
+package chapter08.polymorphism;
 
 public class CustomerTest {
     public static void main(String[] args) {

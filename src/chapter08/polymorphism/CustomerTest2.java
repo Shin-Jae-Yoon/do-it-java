@@ -1,4 +1,4 @@
-package Chapter08.polymorphism;
+package chapter08.polymorphism;
 import java.util.ArrayList;
 
 public class CustomerTest2 {

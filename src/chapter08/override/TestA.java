@@ -1,4 +1,4 @@
-package Chapter08.override;
+package chapter08.override;
 
 public class TestA {
     int num;
