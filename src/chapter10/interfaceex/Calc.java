@@ -31,4 +31,6 @@ public interface Calc {
     private static void myStaticMethod() {
         System.out.println("private static 메서드입니다.");
     }
+
+//    mac test
 }
